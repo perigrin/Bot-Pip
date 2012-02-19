@@ -1,4 +1,4 @@
-package Bot::Pip::Games::Barfly;
+package Bot::Pip::Barfly;
 use Moose;
 extends qw(Adam::Plugin);
 
